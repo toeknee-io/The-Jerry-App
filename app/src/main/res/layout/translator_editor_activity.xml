@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/translator_editor"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+    <Button
+        android:layout_width="259dp"
+        android:layout_height="80dp"
+        android:onClick="saveAndFinish"
+        android:id="@+id/save"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Save" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/englishText"
+        android:hint="You own self's English word"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/translationText"
+        android:hint="New word in you dictionary"
+        android:layout_above="@+id/save"
+        android:layout_toEndOf="@+id/seeTranslations"
+        android:layout_marginBottom="118dp"
+        android:layout_alignLeft="@+id/seeTranslations"
+        android:layout_alignStart="@+id/seeTranslations" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="seeTranslations"
+        android:id="@+id/seeTranslations"
+        android:text="See Translations"
+        android:layout_above="@+id/save"
+        android:layout_alignLeft="@+id/englishText"
+        android:layout_alignStart="@+id/englishText"
+        android:layout_marginLeft="39dp"
+        android:layout_marginStart="39dp"
+        android:layout_marginBottom="54dp" />
+
+</RelativeLayout>
