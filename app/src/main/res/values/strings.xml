@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Jerry App</string>
+    <string name="splash_title">THE JERRY APP</string>
+    <string name="card_name">Jerry Card Generator</string>
+    <string name="trans_name">Jerry Translator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="admob_id">pub-2817753321940136</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Translate</string>
+    <string name="add_translation">Make you own translation</string>
+    
+    <color name="action_bar_color">#000000</color>
+    <color name="btn_pressed_color"> #2E4B87</color>       
+
+</resources>

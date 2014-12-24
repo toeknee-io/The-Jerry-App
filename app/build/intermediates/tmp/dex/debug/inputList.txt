@@ -1,0 +1,5 @@
+C:\Android studioProjects\The-Jerry-App\app\build\intermediates\classes\debug
+C:\Android studioProjects\The-Jerry-App\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-14ab5281db1c18c4657320658a88cf8d6d379f03.jar
+C:\Android studioProjects\The-Jerry-App\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6998cbbbb26477fbee0ea68ffaaf5017ade2ae4a.jar
+C:\Android studioProjects\The-Jerry-App\app\build\intermediates\pre-dexed\debug\classes-22a4b359e92f058dd5837d433a1cf127e19ecfa8.jar
+C:\Android studioProjects\The-Jerry-App\app\build\intermediates\pre-dexed\debug\classes-c0e5751a0c260835a7d5da432f29f59a4d81ac84.jar

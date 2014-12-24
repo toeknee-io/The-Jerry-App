@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:app="http://schemas.android.com/apk/lib/com.google.ads" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <include android:layout_height="wrap_content" android:layout_width="wrap_content" layout="@layout/banner_adview"/>
+
+    <ListView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/meme_img_list"/>
+
+</LinearLayout>
