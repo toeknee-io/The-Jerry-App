@@ -28,6 +28,7 @@ public class TranslationSource {
         SortedSet<String> keys = new TreeSet<String>(transMap.keySet());
 
         List<TranslateItem> translateList = new ArrayList<>();
+
         for(String key : keys) {
             TranslateItem trans = new TranslateItem();
             trans.setKey(key);
@@ -66,6 +67,7 @@ public class TranslationSource {
 
 /*
             ## Confirm msg
+
             Context context = getApplicationContext();
             CharSequence text = "E ff you, I remove you word";
             int duration = Toast.LENGTH_SHORT;

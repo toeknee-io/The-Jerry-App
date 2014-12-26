@@ -19,6 +19,7 @@ import com.google.android.gms.ads.InterstitialAd;
 import com.loosefang.thejerryapp.adapter.ImageAdapter;
 import com.loosefang.thejerryapp.cardgenerator.CardActivity;
 import com.loosefang.thejerryapp.cardgenerator.CreateMemeActivity;
+import com.loosefang.thejerryapp.soundboard.SoundboardActivity;
 import com.loosefang.thejerryapp.translator.TranslatorActivity;
 import com.loosefang.thejerryapp.javafile.MainActivityList;
 
@@ -43,7 +44,7 @@ public class HomeActivity extends Activity implements OnItemClickListener {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		initialiseList();
+//		initialiseList();
 		setContentView(R.layout.main_activity_layout);
 		findViews();
 		onStartView();
@@ -75,18 +76,23 @@ public class HomeActivity extends Activity implements OnItemClickListener {
 		activityList=new ArrayList<MainActivityList>();
 		activityList.add(new MainActivityList("Jerry Card Generator",R.drawable.jerrycard_blue));
 		activityList.add(new MainActivityList("Jerry Translator", R.drawable.jerrycard_green));
+        activityList.add(new MainActivityList("Jerry Soundboard", R.drawable.jerrycard_pink));
 		return activityList;
 				
 	}
 	
 	@Override
 	public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
-		if(arg2==0){		
+		if(arg2 == 0){
 			openCardGenerator();
 		}		
-		else if(arg2 == 1){		
-			openTranslator();
-		}else{
+		if(arg2 == 1) {
+            openTranslator();
+        }
+        if(arg2 == 2){
+            openSoundboard();
+        }
+		else{
 			this.fireCardActivity("home", arg2);			
 		}	
 	}
@@ -125,6 +131,11 @@ public class HomeActivity extends Activity implements OnItemClickListener {
 	 	 Intent intent = new Intent(this, TranslatorActivity.class);
 	 	 startActivity(intent);
 	}
+
+    public void openSoundboard() {
+        Intent intent = new Intent(this, SoundboardActivity.class);
+        startActivity(intent);
+    }
 	
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
