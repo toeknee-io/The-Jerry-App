@@ -472,7 +472,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int LinearLayout1=0x7f0b0023;
-        public static final int action_settings=0x7f0b0031;
+        public static final int action_settings=0x7f0b0032;
         public static final int activity_list=0x7f0b001f;
         public static final int adView=0x7f0b001b;
         public static final int adjust_height=0x7f0b0000;
@@ -485,9 +485,9 @@ containing a value of this type.
         public static final int buy_with_google=0x7f0b0012;
         public static final int classic=0x7f0b0014;
         public static final int donate_with_google=0x7f0b0013;
-        public static final int edit_message=0x7f0b002b;
+        public static final int edit_message=0x7f0b002c;
         public static final int edt_meme_top_txt=0x7f0b0026;
-        public static final int englishText=0x7f0b002e;
+        public static final int englishText=0x7f0b002f;
         public static final int grayscale=0x7f0b0015;
         public static final int holo_dark=0x7f0b0007;
         public static final int holo_light=0x7f0b0008;
@@ -502,25 +502,26 @@ containing a value of this type.
         public static final int match_parent=0x7f0b000e;
         public static final int meme_generated_image=0x7f0b0027;
         public static final int meme_img_list=0x7f0b001e;
-        public static final int menu_old_meme_list=0x7f0b0035;
-        public static final int menu_save=0x7f0b0034;
-        public static final int menu_share=0x7f0b0033;
+        public static final int menu_old_meme_list=0x7f0b0036;
+        public static final int menu_save=0x7f0b0035;
+        public static final int menu_share=0x7f0b0034;
         public static final int monochrome=0x7f0b0016;
         public static final int none=0x7f0b0002;
         public static final int normal=0x7f0b0004;
         public static final int production=0x7f0b0009;
-        public static final int refresh=0x7f0b0032;
+        public static final int refresh=0x7f0b0033;
         public static final int sandbox=0x7f0b000a;
         public static final int satellite=0x7f0b0005;
-        public static final int save=0x7f0b002d;
-        public static final int seeTranslations=0x7f0b0030;
+        public static final int save=0x7f0b002e;
+        public static final int seeTranslations=0x7f0b0031;
         public static final int seekbar=0x7f0b001d;
         public static final int selectionDetails=0x7f0b000d;
+        public static final int soundOne=0x7f0b002a;
         public static final int strict_sandbox=0x7f0b000b;
         public static final int terrain=0x7f0b0006;
-        public static final int translationText=0x7f0b002f;
-        public static final int translator_activity_layout=0x7f0b002a;
-        public static final int translator_editor=0x7f0b002c;
+        public static final int translationText=0x7f0b0030;
+        public static final int translator_activity_layout=0x7f0b002b;
+        public static final int translator_editor=0x7f0b002d;
         public static final int txt_activity_tag=0x7f0b0018;
         public static final int txt_custom_toast=0x7f0b001c;
         public static final int txt_meme_tag=0x7f0b0021;
@@ -544,9 +545,10 @@ containing a value of this type.
         public static final int second_approach=0x7f03000b;
         public static final int show_meme_layout=0x7f03000c;
         public static final int single_meme_view=0x7f03000d;
-        public static final int translate_items_list=0x7f03000e;
-        public static final int translator_activity_layout=0x7f03000f;
-        public static final int translator_editor_activity=0x7f030010;
+        public static final int soundboard_layout=0x7f03000e;
+        public static final int translate_items_list=0x7f03000f;
+        public static final int translator_activity_layout=0x7f030010;
+        public static final int translator_editor_activity=0x7f030011;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
@@ -555,6 +557,7 @@ containing a value of this type.
     }
     public static final class raw {
         public static final int gtm_analytics=0x7f040000;
+        public static final int test =0x7f040001;
     }
     public static final class string {
         public static final int accept=0x7f080000;
