@@ -24,4 +24,11 @@ public class SoundboardActivity extends Activity{
         mediaPlayer.start();
 
     }
+
+    public void hyenaSound(View view){
+
+        MediaPlayer mediaPlayer = MediaPlayer.create(this, R.raw.hyena);
+        mediaPlayer.start();
+
+    }
 }
