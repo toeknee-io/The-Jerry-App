@@ -10,7 +10,7 @@ public class StartUpDialog {
 	Activity act;
 	AlertDialog dialog;
 	AlertDialog.Builder builder;
-	private static final String DIALOG_MASSAGE="Take picture from ? ";
+	private static final String DIALOG_MASSAGE="Take picture from? ";
 	public StartUpDialog(Activity a) {
 		this.act=a;
 		builder=new AlertDialog.Builder(a);

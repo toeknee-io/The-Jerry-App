@@ -89,12 +89,15 @@ public class HomeActivity extends Activity implements OnItemClickListener {
 		if(arg2 == 1) {
             openTranslator();
         }
+
         if(arg2 == 2){
             openSoundboard();
         }
+/*
 		else{
 			this.fireCardActivity("home", arg2);			
-		}	
+		}
+*/
 	}
 	
 	public void fireCardActivity(String action,int position){

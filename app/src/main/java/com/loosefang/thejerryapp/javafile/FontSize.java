@@ -29,7 +29,7 @@ public class FontSize extends Dialog {
 		setContentView(com.loosefang.thejerryapp.R.layout.font_size);
 
 		setSize = (SeekBar) findViewById(R.id.seekbar);
-		setSize.setMax(80);
+		setSize.setMax(75);
 		setSize.setProgress(currentSize);
 		setSize.setOnSeekBarChangeListener(new OnSeekBarChangeListener() {
 
