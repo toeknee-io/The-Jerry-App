@@ -3,6 +3,7 @@ package com.loosefang.thejerryapp.soundboard;
 import android.app.Activity;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 
 import com.loosefang.thejerryapp.R;
@@ -30,5 +31,18 @@ public class SoundboardActivity extends Activity{
         MediaPlayer mediaPlayer = MediaPlayer.create(this, R.raw.hyena);
         mediaPlayer.start();
 
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            finish();
+        }
+        return false;
+    }
+
+    @Override
+    public void onBackPressed() {
+        finish();
     }
 }

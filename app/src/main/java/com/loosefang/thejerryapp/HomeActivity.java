@@ -19,6 +19,7 @@ import com.google.android.gms.ads.InterstitialAd;
 import com.loosefang.thejerryapp.adapter.ImageAdapter;
 import com.loosefang.thejerryapp.cardgenerator.CardActivity;
 import com.loosefang.thejerryapp.cardgenerator.CreateMemeActivity;
+import com.loosefang.thejerryapp.hangoutlocation.JerryHangoutActivity;
 import com.loosefang.thejerryapp.soundboard.SoundboardActivity;
 import com.loosefang.thejerryapp.translator.TranslatorActivity;
 import com.loosefang.thejerryapp.javafile.MainActivityList;
@@ -77,8 +78,8 @@ public class HomeActivity extends Activity implements OnItemClickListener {
 		activityList.add(new MainActivityList("Jerry Card Generator",R.drawable.jerrycard_blue));
 		activityList.add(new MainActivityList("Jerry Translator", R.drawable.jerrycard_green));
         activityList.add(new MainActivityList("Jerry Soundboard", R.drawable.jerrycard_pink));
+        activityList.add(new MainActivityList("Find A Jerry Hangout", R.drawable.jerrycard_yellow));
 		return activityList;
-				
 	}
 	
 	@Override
@@ -93,30 +94,17 @@ public class HomeActivity extends Activity implements OnItemClickListener {
         if(arg2 == 2){
             openSoundboard();
         }
-/*
-		else{
-			this.fireCardActivity("home", arg2);			
-		}
-*/
+        if(arg2 == 3){
+            openJerryHangout();
+        }
 	}
-	
-	public void fireCardActivity(String action,int position){
-		Intent i=new Intent(this, CreateMemeActivity.class);
-		i.setAction(action);
-/*		
-		if(action.equals("home")){
-			i.putExtra("id", activityList.get(position));
-		}
-*/		
-		startActivity(i);
-		
-	}
-		
+
 	@Override
 	protected void onStart() {
 		
 		super.onStart();
 	}
+
 	@Override
 	public void onBackPressed() {
 		if(interstitial.isLoaded()){
@@ -137,6 +125,11 @@ public class HomeActivity extends Activity implements OnItemClickListener {
 
     public void openSoundboard() {
         Intent intent = new Intent(this, SoundboardActivity.class);
+        startActivity(intent);
+    }
+
+    public void openJerryHangout() {
+        Intent intent = new Intent(this, JerryHangoutActivity.class);
         startActivity(intent);
     }
 	

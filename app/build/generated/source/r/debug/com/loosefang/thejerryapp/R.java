@@ -471,23 +471,24 @@ containing a value of this type.
         public static final int style=0x7f020032;
     }
     public static final class id {
-        public static final int LinearLayout1=0x7f0b0023;
-        public static final int action_settings=0x7f0b0033;
-        public static final int activity_list=0x7f0b001f;
+        public static final int LinearLayout1=0x7f0b0024;
+        public static final int action_settings=0x7f0b0035;
+        public static final int activity_list=0x7f0b0020;
         public static final int adView=0x7f0b001b;
         public static final int adjust_height=0x7f0b0000;
         public static final int adjust_width=0x7f0b0001;
         public static final int book_now=0x7f0b0010;
-        public static final int btn_font_size=0x7f0b0025;
-        public static final int btn_font_style=0x7f0b0024;
+        public static final int btn_font_size=0x7f0b0026;
+        public static final int btn_font_style=0x7f0b0025;
+        public static final int button=0x7f0b002e;
         public static final int buyButton=0x7f0b000c;
         public static final int buy_now=0x7f0b0011;
         public static final int buy_with_google=0x7f0b0012;
         public static final int classic=0x7f0b0014;
         public static final int donate_with_google=0x7f0b0013;
-        public static final int edit_message=0x7f0b002d;
-        public static final int edt_meme_top_txt=0x7f0b0026;
-        public static final int englishText=0x7f0b0030;
+        public static final int edit_message=0x7f0b002f;
+        public static final int edt_meme_top_txt=0x7f0b0027;
+        public static final int englishText=0x7f0b0033;
         public static final int grayscale=0x7f0b0015;
         public static final int holo_dark=0x7f0b0007;
         public static final int holo_light=0x7f0b0008;
@@ -495,37 +496,38 @@ containing a value of this type.
         public static final int imageView1=0x7f0b001a;
         public static final int imageView2=0x7f0b0019;
         public static final int img_activity_icon=0x7f0b0017;
-        public static final int img_meme=0x7f0b0029;
-        public static final int img_meme_icon=0x7f0b0020;
-        public static final int img_show_meme=0x7f0b0028;
-        public static final int list_of_meme=0x7f0b0022;
+        public static final int img_meme=0x7f0b002a;
+        public static final int img_meme_icon=0x7f0b0021;
+        public static final int img_show_meme=0x7f0b0029;
+        public static final int list_of_meme=0x7f0b0023;
+        public static final int map=0x7f0b001e;
         public static final int match_parent=0x7f0b000e;
-        public static final int meme_generated_image=0x7f0b0027;
-        public static final int meme_img_list=0x7f0b001e;
-        public static final int menu_old_meme_list=0x7f0b0037;
-        public static final int menu_save=0x7f0b0036;
-        public static final int menu_share=0x7f0b0035;
+        public static final int meme_generated_image=0x7f0b0028;
+        public static final int meme_img_list=0x7f0b001f;
+        public static final int menu_old_meme_list=0x7f0b0039;
+        public static final int menu_save=0x7f0b0038;
+        public static final int menu_share=0x7f0b0037;
         public static final int monochrome=0x7f0b0016;
         public static final int none=0x7f0b0002;
         public static final int normal=0x7f0b0004;
         public static final int production=0x7f0b0009;
-        public static final int refresh=0x7f0b0034;
+        public static final int refresh=0x7f0b0036;
         public static final int sandbox=0x7f0b000a;
         public static final int satellite=0x7f0b0005;
-        public static final int save=0x7f0b002f;
-        public static final int seeTranslations=0x7f0b0032;
+        public static final int save=0x7f0b0031;
+        public static final int seeTranslations=0x7f0b0034;
         public static final int seekbar=0x7f0b001d;
         public static final int selectionDetails=0x7f0b000d;
-        public static final int soundHyena=0x7f0b002b;
-        public static final int soundOne=0x7f0b002a;
+        public static final int soundHyena=0x7f0b002c;
+        public static final int soundOne=0x7f0b002b;
         public static final int strict_sandbox=0x7f0b000b;
         public static final int terrain=0x7f0b0006;
-        public static final int translationText=0x7f0b0031;
-        public static final int translator_activity_layout=0x7f0b002c;
-        public static final int translator_editor=0x7f0b002e;
+        public static final int translationText=0x7f0b0032;
+        public static final int translator_activity_layout=0x7f0b002d;
+        public static final int translator_editor=0x7f0b0030;
         public static final int txt_activity_tag=0x7f0b0018;
         public static final int txt_custom_toast=0x7f0b001c;
-        public static final int txt_meme_tag=0x7f0b0021;
+        public static final int txt_meme_tag=0x7f0b0022;
         public static final int wrap_content=0x7f0b000f;
     }
     public static final class integer {
@@ -539,17 +541,18 @@ containing a value of this type.
         public static final int custom_toast=0x7f030004;
         public static final int display_translations=0x7f030005;
         public static final int font_size=0x7f030006;
-        public static final int jerrycard_activity_layout=0x7f030007;
-        public static final int main_activity_layout=0x7f030008;
-        public static final int meme_img_list_items=0x7f030009;
-        public static final int old_meme_list=0x7f03000a;
-        public static final int second_approach=0x7f03000b;
-        public static final int show_meme_layout=0x7f03000c;
-        public static final int single_meme_view=0x7f03000d;
-        public static final int soundboard_layout=0x7f03000e;
-        public static final int translate_items_list=0x7f03000f;
-        public static final int translator_activity_layout=0x7f030010;
-        public static final int translator_editor_activity=0x7f030011;
+        public static final int jerry_hangout_activity=0x7f030007;
+        public static final int jerrycard_activity_layout=0x7f030008;
+        public static final int main_activity_layout=0x7f030009;
+        public static final int meme_img_list_items=0x7f03000a;
+        public static final int old_meme_list=0x7f03000b;
+        public static final int second_approach=0x7f03000c;
+        public static final int show_meme_layout=0x7f03000d;
+        public static final int single_meme_view=0x7f03000e;
+        public static final int soundboard_layout=0x7f03000f;
+        public static final int translate_items_list=0x7f030010;
+        public static final int translator_activity_layout=0x7f030011;
+        public static final int translator_editor_activity=0x7f030012;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;
@@ -634,11 +637,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdView_animation org.aynsoft.meme.maker:animation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdView_banner_type org.aynsoft.meme.maker:banner_type}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdView_canShowMR org.aynsoft.meme.maker:canShowMR}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdView_placementType org.aynsoft.meme.maker:placementType}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdView_test_mode org.aynsoft.meme.maker:test_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdView_animation com.loosefang.thejerryapp:animation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdView_banner_type com.loosefang.thejerryapp:banner_type}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdView_canShowMR com.loosefang.thejerryapp:canShowMR}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdView_placementType com.loosefang.thejerryapp:placementType}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdView_test_mode com.loosefang.thejerryapp:test_mode}</code></td><td></td></tr>
            </table>
            @see #AdView_animation
            @see #AdView_banner_type
@@ -651,7 +654,7 @@ containing a value of this type.
             0x7f010004
         };
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#animation}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#animation}
           attribute's value can be found in the {@link #AdView} array.
 
 
@@ -661,11 +664,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:animation
+          @attr name com.loosefang.thejerryapp:animation
         */
         public static final int AdView_animation = 2;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#banner_type}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#banner_type}
           attribute's value can be found in the {@link #AdView} array.
 
 
@@ -675,11 +678,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:banner_type
+          @attr name com.loosefang.thejerryapp:banner_type
         */
         public static final int AdView_banner_type = 1;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#canShowMR}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#canShowMR}
           attribute's value can be found in the {@link #AdView} array.
 
 
@@ -689,11 +692,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:canShowMR
+          @attr name com.loosefang.thejerryapp:canShowMR
         */
         public static final int AdView_canShowMR = 4;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#placementType}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#placementType}
           attribute's value can be found in the {@link #AdView} array.
 
 
@@ -703,11 +706,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:placementType
+          @attr name com.loosefang.thejerryapp:placementType
         */
         public static final int AdView_placementType = 3;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#test_mode}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#test_mode}
           attribute's value can be found in the {@link #AdView} array.
 
 
@@ -717,7 +720,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:test_mode
+          @attr name com.loosefang.thejerryapp:test_mode
         */
         public static final int AdView_test_mode = 0;
         /** Attributes that can be used with a AdsAttrs.
@@ -726,9 +729,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AdsAttrs_adSize org.aynsoft.meme.maker:adSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adSizes org.aynsoft.meme.maker:adSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AdsAttrs_adUnitId org.aynsoft.meme.maker:adUnitId}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSize com.loosefang.thejerryapp:adSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adSizes com.loosefang.thejerryapp:adSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AdsAttrs_adUnitId com.loosefang.thejerryapp:adUnitId}</code></td><td></td></tr>
            </table>
            @see #AdsAttrs_adSize
            @see #AdsAttrs_adSizes
@@ -738,7 +741,7 @@ containing a value of this type.
             0x7f010005, 0x7f010006, 0x7f010007
         };
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#adSize}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#adSize}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -748,11 +751,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:adSize
+          @attr name com.loosefang.thejerryapp:adSize
         */
         public static final int AdsAttrs_adSize = 0;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#adSizes}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#adSizes}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -762,11 +765,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:adSizes
+          @attr name com.loosefang.thejerryapp:adSizes
         */
         public static final int AdsAttrs_adSizes = 1;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#adUnitId}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#adUnitId}
           attribute's value can be found in the {@link #AdsAttrs} array.
 
 
@@ -776,7 +779,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:adUnitId
+          @attr name com.loosefang.thejerryapp:adUnitId
         */
         public static final int AdsAttrs_adUnitId = 2;
         /** Attributes that can be used with a LoadingImageView.
@@ -785,9 +788,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop org.aynsoft.meme.maker:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio org.aynsoft.meme.maker:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust org.aynsoft.meme.maker:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop com.loosefang.thejerryapp:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.loosefang.thejerryapp:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.loosefang.thejerryapp:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -797,7 +800,7 @@ containing a value of this type.
             0x7f010008, 0x7f010009, 0x7f01000a
         };
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -807,11 +810,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:circleCrop
+          @attr name com.loosefang.thejerryapp:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -821,11 +824,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:imageAspectRatio
+          @attr name com.loosefang.thejerryapp:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -839,7 +842,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:imageAspectRatioAdjust
+          @attr name com.loosefang.thejerryapp:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MapAttrs.
@@ -848,22 +851,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MapAttrs_cameraBearing org.aynsoft.meme.maker:cameraBearing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLat org.aynsoft.meme.maker:cameraTargetLat}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTargetLng org.aynsoft.meme.maker:cameraTargetLng}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraTilt org.aynsoft.meme.maker:cameraTilt}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_cameraZoom org.aynsoft.meme.maker:cameraZoom}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_liteMode org.aynsoft.meme.maker:liteMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_mapType org.aynsoft.meme.maker:mapType}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiCompass org.aynsoft.meme.maker:uiCompass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiMapToolbar org.aynsoft.meme.maker:uiMapToolbar}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiRotateGestures org.aynsoft.meme.maker:uiRotateGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiScrollGestures org.aynsoft.meme.maker:uiScrollGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiTiltGestures org.aynsoft.meme.maker:uiTiltGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomControls org.aynsoft.meme.maker:uiZoomControls}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_uiZoomGestures org.aynsoft.meme.maker:uiZoomGestures}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_useViewLifecycle org.aynsoft.meme.maker:useViewLifecycle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MapAttrs_zOrderOnTop org.aynsoft.meme.maker:zOrderOnTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraBearing com.loosefang.thejerryapp:cameraBearing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLat com.loosefang.thejerryapp:cameraTargetLat}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTargetLng com.loosefang.thejerryapp:cameraTargetLng}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraTilt com.loosefang.thejerryapp:cameraTilt}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_cameraZoom com.loosefang.thejerryapp:cameraZoom}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_liteMode com.loosefang.thejerryapp:liteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_mapType com.loosefang.thejerryapp:mapType}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiCompass com.loosefang.thejerryapp:uiCompass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiMapToolbar com.loosefang.thejerryapp:uiMapToolbar}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiRotateGestures com.loosefang.thejerryapp:uiRotateGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiScrollGestures com.loosefang.thejerryapp:uiScrollGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiTiltGestures com.loosefang.thejerryapp:uiTiltGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomControls com.loosefang.thejerryapp:uiZoomControls}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_uiZoomGestures com.loosefang.thejerryapp:uiZoomGestures}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_useViewLifecycle com.loosefang.thejerryapp:useViewLifecycle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MapAttrs_zOrderOnTop com.loosefang.thejerryapp:zOrderOnTop}</code></td><td></td></tr>
            </table>
            @see #MapAttrs_cameraBearing
            @see #MapAttrs_cameraTargetLat
@@ -889,7 +892,7 @@ containing a value of this type.
             0x7f010017, 0x7f010018, 0x7f010019, 0x7f01001a
         };
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#cameraBearing}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#cameraBearing}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -899,11 +902,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:cameraBearing
+          @attr name com.loosefang.thejerryapp:cameraBearing
         */
         public static final int MapAttrs_cameraBearing = 1;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#cameraTargetLat}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -913,11 +916,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:cameraTargetLat
+          @attr name com.loosefang.thejerryapp:cameraTargetLat
         */
         public static final int MapAttrs_cameraTargetLat = 2;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#cameraTargetLng}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -927,11 +930,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:cameraTargetLng
+          @attr name com.loosefang.thejerryapp:cameraTargetLng
         */
         public static final int MapAttrs_cameraTargetLng = 3;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#cameraTilt}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -941,11 +944,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:cameraTilt
+          @attr name com.loosefang.thejerryapp:cameraTilt
         */
         public static final int MapAttrs_cameraTilt = 4;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#cameraZoom}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -955,11 +958,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:cameraZoom
+          @attr name com.loosefang.thejerryapp:cameraZoom
         */
         public static final int MapAttrs_cameraZoom = 5;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#liteMode}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#liteMode}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -969,11 +972,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:liteMode
+          @attr name com.loosefang.thejerryapp:liteMode
         */
         public static final int MapAttrs_liteMode = 6;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#mapType}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -989,11 +992,11 @@ containing a value of this type.
 <tr><td><code>terrain</code></td><td>3</td><td></td></tr>
 <tr><td><code>hybrid</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:mapType
+          @attr name com.loosefang.thejerryapp:mapType
         */
         public static final int MapAttrs_mapType = 0;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#uiCompass}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1003,11 +1006,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:uiCompass
+          @attr name com.loosefang.thejerryapp:uiCompass
         */
         public static final int MapAttrs_uiCompass = 7;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#uiMapToolbar}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#uiMapToolbar}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1017,11 +1020,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:uiMapToolbar
+          @attr name com.loosefang.thejerryapp:uiMapToolbar
         */
         public static final int MapAttrs_uiMapToolbar = 15;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#uiRotateGestures}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1031,11 +1034,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:uiRotateGestures
+          @attr name com.loosefang.thejerryapp:uiRotateGestures
         */
         public static final int MapAttrs_uiRotateGestures = 8;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#uiScrollGestures}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1045,11 +1048,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:uiScrollGestures
+          @attr name com.loosefang.thejerryapp:uiScrollGestures
         */
         public static final int MapAttrs_uiScrollGestures = 9;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#uiTiltGestures}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1059,11 +1062,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:uiTiltGestures
+          @attr name com.loosefang.thejerryapp:uiTiltGestures
         */
         public static final int MapAttrs_uiTiltGestures = 10;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#uiZoomControls}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1073,11 +1076,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:uiZoomControls
+          @attr name com.loosefang.thejerryapp:uiZoomControls
         */
         public static final int MapAttrs_uiZoomControls = 11;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#uiZoomGestures}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1087,11 +1090,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:uiZoomGestures
+          @attr name com.loosefang.thejerryapp:uiZoomGestures
         */
         public static final int MapAttrs_uiZoomGestures = 12;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#useViewLifecycle}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1101,11 +1104,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:useViewLifecycle
+          @attr name com.loosefang.thejerryapp:useViewLifecycle
         */
         public static final int MapAttrs_useViewLifecycle = 13;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#zOrderOnTop}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
 
 
@@ -1115,7 +1118,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:zOrderOnTop
+          @attr name com.loosefang.thejerryapp:zOrderOnTop
         */
         public static final int MapAttrs_zOrderOnTop = 14;
         /** Attributes that can be used with a WalletFragmentOptions.
@@ -1124,10 +1127,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_appTheme org.aynsoft.meme.maker:appTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_environment org.aynsoft.meme.maker:environment}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_fragmentMode org.aynsoft.meme.maker:fragmentMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle org.aynsoft.meme.maker:fragmentStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_appTheme com.loosefang.thejerryapp:appTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_environment com.loosefang.thejerryapp:environment}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_fragmentMode com.loosefang.thejerryapp:fragmentMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle com.loosefang.thejerryapp:fragmentStyle}</code></td><td></td></tr>
            </table>
            @see #WalletFragmentOptions_appTheme
            @see #WalletFragmentOptions_environment
@@ -1138,7 +1141,7 @@ containing a value of this type.
             0x7f01001b, 0x7f01001c, 0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#appTheme}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#appTheme}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -1151,11 +1154,11 @@ containing a value of this type.
 <tr><td><code>holo_dark</code></td><td>0</td><td></td></tr>
 <tr><td><code>holo_light</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:appTheme
+          @attr name com.loosefang.thejerryapp:appTheme
         */
         public static final int WalletFragmentOptions_appTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#environment}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#environment}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -1169,11 +1172,11 @@ containing a value of this type.
 <tr><td><code>sandbox</code></td><td>0</td><td></td></tr>
 <tr><td><code>strict_sandbox</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:environment
+          @attr name com.loosefang.thejerryapp:environment
         */
         public static final int WalletFragmentOptions_environment = 1;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#fragmentMode}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#fragmentMode}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
@@ -1186,17 +1189,17 @@ containing a value of this type.
 <tr><td><code>buyButton</code></td><td>1</td><td></td></tr>
 <tr><td><code>selectionDetails</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:fragmentMode
+          @attr name com.loosefang.thejerryapp:fragmentMode
         */
         public static final int WalletFragmentOptions_fragmentMode = 3;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#fragmentStyle}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#fragmentStyle}
           attribute's value can be found in the {@link #WalletFragmentOptions} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.aynsoft.meme.maker:fragmentStyle
+          @attr name com.loosefang.thejerryapp:fragmentStyle
         */
         public static final int WalletFragmentOptions_fragmentStyle = 2;
         /** Attributes that can be used with a WalletFragmentStyle.
@@ -1205,17 +1208,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance org.aynsoft.meme.maker:buyButtonAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight org.aynsoft.meme.maker:buyButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonText org.aynsoft.meme.maker:buyButtonText}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth org.aynsoft.meme.maker:buyButtonWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground org.aynsoft.meme.maker:maskedWalletDetailsBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground org.aynsoft.meme.maker:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance org.aynsoft.meme.maker:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance org.aynsoft.meme.maker:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType org.aynsoft.meme.maker:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor org.aynsoft.meme.maker:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance org.aynsoft.meme.maker:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance com.loosefang.thejerryapp:buyButtonAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight com.loosefang.thejerryapp:buyButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonText com.loosefang.thejerryapp:buyButtonText}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth com.loosefang.thejerryapp:buyButtonWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground com.loosefang.thejerryapp:maskedWalletDetailsBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground com.loosefang.thejerryapp:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance com.loosefang.thejerryapp:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance com.loosefang.thejerryapp:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType com.loosefang.thejerryapp:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor com.loosefang.thejerryapp:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance com.loosefang.thejerryapp:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
            </table>
            @see #WalletFragmentStyle_buyButtonAppearance
            @see #WalletFragmentStyle_buyButtonHeight
@@ -1235,7 +1238,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010027, 0x7f010028, 0x7f010029
         };
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#buyButtonAppearance}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#buyButtonAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -1249,11 +1252,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>grayscale</code></td><td>2</td><td></td></tr>
 <tr><td><code>monochrome</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:buyButtonAppearance
+          @attr name com.loosefang.thejerryapp:buyButtonAppearance
         */
         public static final int WalletFragmentStyle_buyButtonAppearance = 3;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#buyButtonHeight}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#buyButtonHeight}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -1274,11 +1277,11 @@ containing a value of this type.
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:buyButtonHeight
+          @attr name com.loosefang.thejerryapp:buyButtonHeight
         */
         public static final int WalletFragmentStyle_buyButtonHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#buyButtonText}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#buyButtonText}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -1293,11 +1296,11 @@ containing a value of this type.
 <tr><td><code>book_now</code></td><td>3</td><td></td></tr>
 <tr><td><code>donate_with_google</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:buyButtonText
+          @attr name com.loosefang.thejerryapp:buyButtonText
         */
         public static final int WalletFragmentStyle_buyButtonText = 2;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#buyButtonWidth}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#buyButtonWidth}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -1318,11 +1321,11 @@ containing a value of this type.
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:buyButtonWidth
+          @attr name com.loosefang.thejerryapp:buyButtonWidth
         */
         public static final int WalletFragmentStyle_buyButtonWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#maskedWalletDetailsBackground}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#maskedWalletDetailsBackground}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -1330,11 +1333,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.aynsoft.meme.maker:maskedWalletDetailsBackground
+          @attr name com.loosefang.thejerryapp:maskedWalletDetailsBackground
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsBackground = 6;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#maskedWalletDetailsButtonBackground}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#maskedWalletDetailsButtonBackground}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -1342,31 +1345,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name org.aynsoft.meme.maker:maskedWalletDetailsButtonBackground
+          @attr name com.loosefang.thejerryapp:maskedWalletDetailsButtonBackground
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsButtonBackground = 8;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#maskedWalletDetailsButtonTextAppearance}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#maskedWalletDetailsButtonTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.aynsoft.meme.maker:maskedWalletDetailsButtonTextAppearance
+          @attr name com.loosefang.thejerryapp:maskedWalletDetailsButtonTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#maskedWalletDetailsHeaderTextAppearance}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#maskedWalletDetailsHeaderTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.aynsoft.meme.maker:maskedWalletDetailsHeaderTextAppearance
+          @attr name com.loosefang.thejerryapp:maskedWalletDetailsHeaderTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#maskedWalletDetailsLogoImageType}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#maskedWalletDetailsLogoImageType}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -1379,11 +1382,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>classic</code></td><td>1</td><td></td></tr>
 <tr><td><code>monochrome</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name org.aynsoft.meme.maker:maskedWalletDetailsLogoImageType
+          @attr name com.loosefang.thejerryapp:maskedWalletDetailsLogoImageType
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsLogoImageType = 10;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#maskedWalletDetailsLogoTextColor}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#maskedWalletDetailsLogoTextColor}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
@@ -1394,17 +1397,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name org.aynsoft.meme.maker:maskedWalletDetailsLogoTextColor
+          @attr name com.loosefang.thejerryapp:maskedWalletDetailsLogoTextColor
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsLogoTextColor = 9;
         /**
-          <p>This symbol is the offset where the {@link org.aynsoft.meme.maker.R.attr#maskedWalletDetailsTextAppearance}
+          <p>This symbol is the offset where the {@link com.loosefang.thejerryapp.R.attr#maskedWalletDetailsTextAppearance}
           attribute's value can be found in the {@link #WalletFragmentStyle} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name org.aynsoft.meme.maker:maskedWalletDetailsTextAppearance
+          @attr name com.loosefang.thejerryapp:maskedWalletDetailsTextAppearance
         */
         public static final int WalletFragmentStyle_maskedWalletDetailsTextAppearance = 4;
     };
